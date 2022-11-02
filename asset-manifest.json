@@ -1,7 +1,7 @@
 {
   "main.css": "/BruStats/static/css/main.1b8b715e.chunk.css",
-  "main.js": "/BruStats/static/js/main.c3854f5b.chunk.js",
-  "main.js.map": "/BruStats/static/js/main.c3854f5b.chunk.js.map",
+  "main.js": "/BruStats/static/js/main.b423c6e3.chunk.js",
+  "main.js.map": "/BruStats/static/js/main.b423c6e3.chunk.js.map",
   "static/js/1.bb79f685.chunk.js": "/BruStats/static/js/1.bb79f685.chunk.js",
   "static/js/1.bb79f685.chunk.js.map": "/BruStats/static/js/1.bb79f685.chunk.js.map",
   "static/css/2.1d7afaa8.chunk.css": "/BruStats/static/css/2.1d7afaa8.chunk.css",
@@ -9,13 +9,13 @@
   "static/js/2.a000890b.chunk.js.map": "/BruStats/static/js/2.a000890b.chunk.js.map",
   "runtime~main.js": "/BruStats/static/js/runtime~main.f055b9ed.js",
   "runtime~main.js.map": "/BruStats/static/js/runtime~main.f055b9ed.js.map",
-  "static/media/300.css": "/BruStats/static/media/roboto-latin-ext-300-normal.716871ec.woff2",
+  "static/media/300.css": "/BruStats/static/media/roboto-greek-ext-300-normal.c2be5367.woff2",
   "static/media/400.css": "/BruStats/static/media/roboto-latin-400-normal.15d9f621.woff2",
-  "static/media/500.css": "/BruStats/static/media/roboto-latin-500-normal.3a44e06e.woff2",
-  "static/media/700.css": "/BruStats/static/media/roboto-greek-700-normal.3f8b2aa4.woff2",
-  "static/css/main.1b8b715e.chunk.css.map": "/BruStats/static/css/main.1b8b715e.chunk.css.map",
+  "static/media/500.css": "/BruStats/static/media/roboto-latin-ext-500-normal.e36fccd0.woff2",
+  "static/media/700.css": "/BruStats/static/media/roboto-latin-700-normal.e9f5aaf5.woff2",
   "static/css/2.1d7afaa8.chunk.css.map": "/BruStats/static/css/2.1d7afaa8.chunk.css.map",
+  "static/css/main.1b8b715e.chunk.css.map": "/BruStats/static/css/main.1b8b715e.chunk.css.map",
   "index.html": "/BruStats/index.html",
-  "precache-manifest.1cdca2126a5f80ae5047ccb38b0de33a.js": "/BruStats/precache-manifest.1cdca2126a5f80ae5047ccb38b0de33a.js",
+  "precache-manifest.a6e8fe48651033062289ca2a72935c05.js": "/BruStats/precache-manifest.a6e8fe48651033062289ca2a72935c05.js",
   "service-worker.js": "/BruStats/service-worker.js"
 }
