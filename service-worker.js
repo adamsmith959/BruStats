@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/BruStats/precache-manifest.c31e04175265fbb3cc7d35d63d8242bf.js"
+  "/BruStats/precache-manifest.45ae5224a0eed48a28e26248fb92d11b.js"
 );
 
 workbox.clientsClaim();
