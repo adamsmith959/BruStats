@@ -1,7 +1,7 @@
 {
   "main.css": "/BruStats/static/css/main.ff3f69e6.chunk.css",
-  "main.js": "/BruStats/static/js/main.0948e40d.chunk.js",
-  "main.js.map": "/BruStats/static/js/main.0948e40d.chunk.js.map",
+  "main.js": "/BruStats/static/js/main.d16ed58c.chunk.js",
+  "main.js.map": "/BruStats/static/js/main.d16ed58c.chunk.js.map",
   "static/js/1.28e88a28.chunk.js": "/BruStats/static/js/1.28e88a28.chunk.js",
   "static/js/1.28e88a28.chunk.js.map": "/BruStats/static/js/1.28e88a28.chunk.js.map",
   "static/css/2.fcbefb2c.chunk.css": "/BruStats/static/css/2.fcbefb2c.chunk.css",
@@ -10,12 +10,12 @@
   "runtime~main.js": "/BruStats/static/js/runtime~main.67aea4ba.js",
   "runtime~main.js.map": "/BruStats/static/js/runtime~main.67aea4ba.js.map",
   "static/media/300.css": "/BruStats/static/media/roboto-latin-300-normal.b9c29351.woff2",
-  "static/media/400.css": "/BruStats/static/media/roboto-vietnamese-400-normal.ca3b09b6.woff2",
-  "static/media/500.css": "/BruStats/static/media/roboto-latin-500-normal.3a44e06e.woff2",
-  "static/media/700.css": "/BruStats/static/media/roboto-latin-700-normal.e9f5aaf5.woff2",
+  "static/media/400.css": "/BruStats/static/media/roboto-latin-400-normal.15d9f621.woff2",
+  "static/media/500.css": "/BruStats/static/media/roboto-vietnamese-500-normal.7cda2cfe.woff2",
+  "static/media/700.css": "/BruStats/static/media/roboto-latin-ext-700-normal.deb26e9b.woff2",
   "static/css/main.ff3f69e6.chunk.css.map": "/BruStats/static/css/main.ff3f69e6.chunk.css.map",
   "static/css/2.fcbefb2c.chunk.css.map": "/BruStats/static/css/2.fcbefb2c.chunk.css.map",
   "index.html": "/BruStats/index.html",
-  "precache-manifest.3187aa2114cee65fbb3b4fc79dd51114.js": "/BruStats/precache-manifest.3187aa2114cee65fbb3b4fc79dd51114.js",
+  "precache-manifest.89df51f74c3cbdd549881fa2e9752d08.js": "/BruStats/precache-manifest.89df51f74c3cbdd549881fa2e9752d08.js",
   "service-worker.js": "/BruStats/service-worker.js"
 }
